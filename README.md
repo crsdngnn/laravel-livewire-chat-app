@@ -38,9 +38,6 @@ Before starting, ensure you have installed:
 | MySQL | latest |
 | Git | latest |
 | Pusher Account | App ID, Key, Secret, Cluster |
-| Laravel Jetstream | latest (with Livewire stack) |
-| Livewire | latest |
-| Tailwind CSS or Bootstrap | latest |
 
 ---
 
