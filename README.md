@@ -64,12 +64,6 @@ cp .env.example .env
 php artisan key:generate
 ```
 
-### Step 4 – Create Environment File
-```bash
-cp .env.example .env
-php artisan key:generate
-```
-
 ```bash
 Then open .env and configure your environment:
 APP_NAME="Laravel Livewire Chat"
