@@ -108,7 +108,6 @@ npm run dev
 
 ### Step 7 – Run the Development Server
 ```bash
-php artisan key:generate
 php artisan optimize:clear
 php artisan serve
 
